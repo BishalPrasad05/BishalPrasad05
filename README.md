@@ -1,12 +1,26 @@
 <img src="header_image.png"></img>
 <h3 align="center">---- I'm 😎 passionate about Technology ----</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-prasad05&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-prasad05" /> </p>
 
+##
+
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-prasad05&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-prasad05" /> </span>
+
+  
+  <img height="200" align="right" src="https://user-images.githubusercontent.com/120594033/231160190-456bfe69-4d4a-4541-b9f6-098d10603494.gif"/>
+<!--   ![side](https://user-images.githubusercontent.com/120594033/231160190-456bfe69-4d4a-4541-b9f6-098d10603494.gif) -->
+
+<div width="200" align="left">
+  
 - I’m currently learning *python*
+  <br>
 - 🔭 I’m currently working on **Melo (music player)**
-
+  <br>
 - 📫 How to reach me *bishalprasad251122@gmail.com*
+  <br>
+  </div>
+
+##
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +28,8 @@
 <a href="https://instagram.com/bishalprasad05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishalprasad05" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@bishalprasad2511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bishalprasad2511" height="30" width="40" /></a>
 
+##  
+  
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" border="2px solid white">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
