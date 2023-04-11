@@ -1,5 +1,6 @@
 <img src="header_image.png"></img>
 <h3 align="center">---- I'm 😎 passionate about Technology ----</h3>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-prasad05&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-prasad05" /> </p>
 
 - I’m currently learning *python*
@@ -38,6 +39,8 @@
 ###
 <br>
 
-<!----- <img src="https://raw.githubusercontent.com/bishal-prasad05/bishal-prasad05/blob/output/snake.svg" alt="Snake animation" /> !---->
+<div align="center">
+<img src="https://github.com/Bishal-prasad05/Bishal-prasad05/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 ###
