@@ -11,7 +11,7 @@
 
 <div width="200" align="left">
   
-- I’m currently learning *python*
+- I’m currently learning *Web-Development*
   <br>
 - 🔭 I’m currently working on **Melo (music player)**
   <br>
