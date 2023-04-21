@@ -13,7 +13,7 @@
   
 - I’m currently learning *Web-Development*
   <br>
-- 🔭 I’m currently working on **Melo (music player)**
+- 🔭 I’m currently working on **Weather-App**
   <br>
 - 📫 How to reach me *bishalprasad251122@gmail.com*
   <br>
