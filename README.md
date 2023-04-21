@@ -1,4 +1,4 @@
-<!-- <img src="header_image.png"></img> -->
+<img src="header_image.png"></img>
 <h3 align="center">---- I'm 😎 passionate about Technology ----</h3>
 
 ##
