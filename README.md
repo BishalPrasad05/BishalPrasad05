@@ -1,4 +1,5 @@
-<img src="header_image.png"></img>
+
+![header](https://github.com/Bishal-P/Bishal-P/assets/120594033/addebd41-7cba-4d8f-9c3e-79037d3d139f)
 <div align="center">
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0F95F7&center=true&vCenter=true&width=441&lines=----+I'm+%F0%9F%98%8E+passionate+about+Technology+----" alt="Typing SVG" /></a>
 </div>
