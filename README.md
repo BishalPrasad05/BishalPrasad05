@@ -80,9 +80,9 @@
 </p>
 
 <a> 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bishal-P?cardType=github&theme=github-dark&preferLogin=false&Border=DD2727&Title=DD2727)](https://git.io/awesome-stats-card)
-<!--     <a href="https://github.com/bishal-p"><img alt="Bishal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bishal-p&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/bishal-p"><img alt="Bishal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bishal-p&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
+<!--   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bishal-P?cardType=github&theme=github-dark&preferLogin=false&Border=DD2727&Title=DD2727)](https://git.io/awesome-stats-card) -->
+    <a href="https://github.com/bishal-p"><img alt="Bishal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bishal-p&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/bishal-p"><img alt="Bishal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bishal-p&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
