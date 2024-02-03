@@ -7,7 +7,6 @@
                 <b><a target="_blank" href="https://bishalprasad05.netlify.app">Bishal Prasad</a></b>
         </samp>
 </h3>
-
 <p align="center"> 
   <samp>
     <a href="https://linkedin.com/in/bishalprasad05">「 Find me on Linkedin 」</a>
