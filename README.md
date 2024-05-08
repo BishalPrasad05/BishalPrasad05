@@ -67,23 +67,23 @@
 ## My Stats
 
 <p align="center">
-  <a href="https://github.com/bishal-p">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-p&theme=radical&border=7F3FBF&background=0D1117" alt="Bishal's GitHub streak"/>
+  <a href="https://github.com/bishalprasad05">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalprasad05&theme=radical&border=7F3FBF&background=0D1117" alt="Bishal's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/bishal-p">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishal-p&theme=radical" alt="Bishal's GitHub Contribution"/>
+  <a href="https://github.com/bishalprasad05">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishalprasad05&theme=radical" alt="Bishal's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/bishal-p"><img alt="Bishal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bishal-p&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/bishal-p"><img alt="Bishal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bishal-p&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/bbishalprasad05"><img alt="Bishal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bishalprasad05&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/bishalprasad05"><img alt="Bishal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bishalprasad05&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 ## My contribution graph
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishal-p&bg_color=0D1117&color=7F3FBF&line=&F3FBF&point=7F3FBF&area=true&hide_border=true&area_color=FFFFFF&title_color=FFFFFF&custom_title=My%20GitHub%20Activity%20Graph&height=250)](https://github.com/bishal-p/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishalprasad05&bg_color=0D1117&color=7F3FBF&line=&F3FBF&point=7F3FBF&area=true&hide_border=true&area_color=FFFFFF&title_color=FFFFFF&custom_title=My%20GitHub%20Activity%20Graph&height=250)](https://github.com/bishal-p/github-readme-activity-graph)
