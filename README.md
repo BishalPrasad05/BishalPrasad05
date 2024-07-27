@@ -23,7 +23,7 @@
  <a href="https://instagram.com/bishalprasad05" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="bishal prasad" />
  </a> 
- <a href="https://www.hackerrank.com/bishalprasad2511" target="_blank">
+ <a href="https://www.hackerrank.com/bishalprasad05" target="_blank">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="bishal prasad"  />
   </a> 
 </p>
