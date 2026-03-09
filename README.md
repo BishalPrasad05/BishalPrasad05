@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,60:0d2137,100:0a0f1e&height=70&section=header" width="100%"/>
 <p align="center">
   <a href="https://github.com/bishal-p"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
