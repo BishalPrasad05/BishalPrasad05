@@ -3,11 +3,11 @@
   <a href="https://github.com/bishal-p"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://bishalprasad05.netlify.app">Bishal Prasad</a></b>
+                <b><a target="_blank" href="https://bishalprasad05.netlify.app">Bishal</a></b>
         </samp>
-</h3>
+</h1>
 <p align="center"> 
   <samp>
     <a href="https://linkedin.com/in/bishalprasad05">「 Find me on Linkedin 」</a>
