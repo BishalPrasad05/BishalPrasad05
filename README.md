@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,60:0d2137,100:0a0f1e&height=70&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,60:0d2137,100:0a0f1e&height=90&section=header" width="100%"/>
 <p align="center">
   <a href="https://github.com/bishal-p"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -30,27 +30,28 @@
 </p>
 
 <!-- About Section -->
-## About Me <a href="https://komarev.com/ghpvc/?username=bishal-p"><img align="right" src="https://komarev.com/ghpvc/?username=bishal-p&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
- 
-<p>
- <img align="right" width="350" src="https://github.com/Bishal-P/Bishal-P/assets/120594033/a566f575-0bb2-410b-bc60-f8d7eb5a0d81" alt="Coding gif" />
+## 👨‍💻 About Me <a href="https://komarev.com/ghpvc/?username=bishal-p"><img align="right" src="https://komarev.com/ghpvc/?username=bishal-p&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile visitor"/>
+</a>
 
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>  <br>
- ❤️ &emsp; Love to writing code and learning new features<br/>  <br>
- 📧 &emsp; Reach me anytime: [here](mailto:xyzpbishalw@gmail.com)<br/>  <br>
- 💬 &emsp; Ask me about anything [here](https://github.com/bishal-p/bishal-p/issues)
+<img align="right" width="320" src="https://github.com/Bishal-P/Bishal-P/assets/120594033/a566f575-0bb2-410b-bc60-f8d7eb5a0d81" alt="Coding gif"/>
 
-</p>
+- ✌️ Passionate about **programming and sharing knowledge**
+- ❤️ Turning ideas into **print(idea)**
+- 💻 Interested in **Mainframe Development, Web Development, and App Development**
+- 📧 Reach me anytime: **[Email](mailto:xyzpbishalw@gmail.com)**
+- 💬 Ask me anything: **[GitHub Discussions](https://github.com/bishal-p/bishal-p/issues)**
+
+<br clear="right"/>
 
 <br>
-
 
 ## ⚡ Tech Stack
 
 <div>
 <table>
 <tr>
-<td>
+
+<td align="center">
 
 🖥️ <b>Mainframe</b><br><br>
 
@@ -60,7 +61,7 @@
 
 </td>
 
-<td>
+<td align="center">
 
 👨‍💻 <b>Programming Languages</b><br><br>
 
@@ -70,47 +71,57 @@
 
 </td>
 
-<td>
-  🗄️ <b>Databases</b> <br><br> 
-  
+<td align="center">
+
+🗄️ <b>Databases</b><br><br>
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🛠 <b>Tools & Platforms</b><br><br>
+
+![Shell Script](https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</td>
+
+<td align="center">
+
+📱 <b>App Development</b><br><br>
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</td>
+
+<td align="center">
+
+🌐 <b>Web Development</b><br><br>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 </td>
 
 </tr>
 </table>
-
-
-<br>
-
-🌐 **Web Development**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<br>
-
-📱 **App Development**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-<br>
-
-🗄️ **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<br>
-
-🛠 **Tools & Platforms**  
-![Shell Script](https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 </div>
+
 
 <br/>
 
